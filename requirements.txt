@@ -1,0 +1,10 @@
+wheel
+pandas
+jupyter
+numpy
+matplotlib
+tensorflow
+sklearn
+keras
+pandas-datareader
+streamlit
